@@ -37,5 +37,9 @@ Duplicated keywords example:
 
 Similar keywords example:
 
-- ['Adb Shell Tab', 'Adb Tab', 'Adb Shell Enter']
-- ['Allow All Permissions', 'Allow All Permission', 'Allow Permissions',]
+- Adb Shell Tab
+- Adb Tab
+- Adb Shell Enter
+- Allow All Permissions
+- Allow All Permission
+- Allow Permissions
